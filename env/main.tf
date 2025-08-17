@@ -13,5 +13,5 @@ provider "azurerm" {
 }
 
 module "rg_detaiils" {
- source = "../modules/resource_group" 
+ source = "../modules/resource_group"
 }
